@@ -60,7 +60,7 @@ See [here](https://github.com/golang/go/wiki/Modules) for `go mod` details.
 Then, check out the project and run `make` to compile the binary:
 
 ~~~
-$ git clone https://github.com/coredns/coredns
+$ git clone https://github.com/nicesteven/coredns.git
 $ cd coredns
 $ make
 ~~~

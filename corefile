@@ -1,0 +1,8 @@
+. {
+    whoami
+    log
+    mysql {
+        dsn fate_dev:JlDCIAG2lwiUpWn2@tcp(rm-bp1hdm32307skk859oo.mysql.rds.aliyuncs.com:3306)/fate_flow_dev
+    }
+    #forward . 8.8.8.8
+}
