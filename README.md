@@ -1,5 +1,3 @@
-[![CoreDNS](https://coredns.io/images/CoreDNS_Colour_Horizontal.png)](https://coredns.io)
-
 [![Documentation](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/coredns/coredns)
 ![CodeQL](https://github.com/coredns/coredns/actions/workflows/codeql-analysis.yml/badge.svg)
 ![Go Fmt](https://github.com/coredns/coredns/actions/workflows/go.fmt.yml/badge.svg)
